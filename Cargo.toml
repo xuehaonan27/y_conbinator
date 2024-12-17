@@ -2,5 +2,9 @@
 name = "y_conbinator"
 version = "0.1.0"
 edition = "2021"
+authors = ["Xue Haonan <xuehaonan27@gmail.com>"]
+repository = "https://github.com/xuehaonan27/y_conbinator"
+license = "MIT OR Apache-2.0"
+description = "Y conbinator demonstration"
 
 [dependencies]
